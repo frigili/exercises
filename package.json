@@ -1,0 +1,23 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": ".js",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "yesss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gityesss"
+  },
+  "keywords": [
+    "ex1@"
+  ],
+  "author": "gilf",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
